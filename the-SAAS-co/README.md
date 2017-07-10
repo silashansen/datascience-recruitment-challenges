@@ -48,5 +48,4 @@ Here's some inspiration for libraries to use:
 
 ### Report
 
-We expect a report about performance of your classifier together with your codes. Please include
-precision, recall, f1, auc scores together with examples of misclassified strings.
+We expect a short summary of your classifier together with your sourcecode.
