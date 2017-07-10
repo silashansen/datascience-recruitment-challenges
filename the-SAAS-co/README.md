@@ -23,10 +23,9 @@ You're free to use any dataset/dictionary from Internet, feel free to form your 
 
 ### Libraries
 
-Feel free to choose between Python 2 or Python 3.
+Feel free to choose the programming language of choice.
 
-You are allowed to use any standard Python libraries. 
-Here's some inspiration for libraries to use:
+Here's some inspiration for Python libraries to use:
 
 - scikit-learn
 - numpy
