@@ -5,7 +5,7 @@ a valid person name or not. Here, we suppose the string input is always ASCII
 characters. This doesn’t mean you don’t need to consider non-English person names.
 E.g. you need to correctly classify “Jun Wang” (Chinese name) as a valid person name.
 
-Objective of this challenge is to check your general way of problemsolving with regards to algorithms and ML.
+Objective of this challenge is to check your general way of problemsolving with regards to algorithms, data-analysis and ML.
 
 ### Data
 
