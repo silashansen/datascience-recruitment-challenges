@@ -5,8 +5,7 @@ a valid person name or not. Here, we suppose the string input is always ASCII
 characters. This doesn’t mean you don’t need to consider non-English person names.
 E.g. you need to correctly classify “Jun Wang” (Chinese name) as a valid person name.
 
-Objective of this challenge is to check your general knowledge/skills of NLP & ML.
-
+Objective of this challenge is to check your general way of problemsolving with regards to algorithms and ML.
 
 ### Data
 
@@ -26,8 +25,8 @@ You're free to use any dataset/dictionary from Internet, feel free to form your 
 
 Feel free to choose between Python 2 or Python 3.
 
-You are allowed to use any standard Python libraries. Except standard libraries,
-you're allowed to use following Machine Learning & NLP related libraries:
+You are allowed to use any standard Python libraries. 
+Here's some inspiration for libraries to use:
 
 - scikit-learn
 - numpy
@@ -39,6 +38,8 @@ you're allowed to use following Machine Learning & NLP related libraries:
 - TensorFlow
 - Theano
 - Pylearn2
+- PyToch
+- Keras
 - Pattern
 - MITIE
 - Unidecode
